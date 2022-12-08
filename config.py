@@ -83,6 +83,16 @@ Hey there I'm Best Motivation Channel  Group Manager"""
                         ]
                 ]
 )
+        about_buttons = InlineKeyboardMarkup(
+                [
+                        [
+                                InlineKeyboardButton(text="OWNER", url="https://t.me/PUBUDUPRASAD")
+                        ], 
+                        [
+                                InlineKeyboardButton("« Back", callback_data='startcq')
+                        ]
+                ]
+)
         
 )
         #Rose private start button menu here
