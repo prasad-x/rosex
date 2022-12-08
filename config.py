@@ -59,25 +59,8 @@ Hey there I'm Best Motivation Channel  Group Manager"""
                                 InlineKeyboardButton(text="🇱🇷 English", callback_data="languages_en")
                         ],
                         [
-                                InlineKeyboardButton(text="🇱🇰 සිංහල", callback_data="languages_si"), 
-                                InlineKeyboardButton(text="🇮🇳 हिन्दी", callback_data="languages_hi")
-                        ], 
-                        [
-                                InlineKeyboardButton(text="🇮🇹 Italiano", callback_data="languages_it"), 
-                                InlineKeyboardButton(text="🇮🇳 తెలుగు", callback_data="languages_ta")
-                        ], 
-                        [
-                                InlineKeyboardButton(text="🇮🇩 Indonesia", callback_data="languages_id"), 
-                                InlineKeyboardButton(text="🇦🇪 عربي", callback_data="languages_ar")
-                        ], 
-                        [
-                                InlineKeyboardButton(text="🇮🇳 മലയാളം", callback_data="languages_ml"), 
-                                InlineKeyboardButton(text="🇲🇼 Chichewa", callback_data="languages_ny")
-                        ], 
-                        [
-                                InlineKeyboardButton(text="🇩🇪 German", callback_data="languages_ge"), 
-                                InlineKeyboardButton(text="🇷🇺 Russian", callback_data="languages_ru")
-                        ], 
+                                InlineKeyboardButton(text="🇱🇰 සිංහල", callback_data="languages_si")
+                        ],
                         [
                                 InlineKeyboardButton("« Back", callback_data='startcq')
                         ]
