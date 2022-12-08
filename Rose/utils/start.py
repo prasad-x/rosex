@@ -23,11 +23,11 @@ async def get_learn(_, m: Message, help_option: str):
 the other way to use me is to write the inline query by your self
 the format should be in this arrangement
 
-`@szrosebot your whisper @username`
+`@best_motivation_manager_bot your whisper @username`
 
 now I'll split out the format in 3 parts and explain every part of it
 
-1- `@szrosebot`
+1- `@best_motivation_manager_bot`
 this is my username it should be at the beginning of the inline query so I'll know that you are using me and not another bot.
 
 2- `whisper message`
